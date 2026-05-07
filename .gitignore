@@ -1,0 +1,9 @@
+# Archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Configuración de editor
+.vscode/
+
+# Variables de entorno y configuración local
+.env
